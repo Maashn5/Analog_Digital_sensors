@@ -13,7 +13,8 @@ Analog signal represent continuous value of certain interval over time
 <br/> Here is the circuit
 ![alt text](https://github.com/Maashn5/Analog_Digital_sensors/blob/main/temp_sensor/temp%20sensor.png)
 <br/> Here is the code 
-<br/> ``` c++
+<br/> 
+```c++
 double voltage; // the measuring voltage
 double temp;// the temprature
 
